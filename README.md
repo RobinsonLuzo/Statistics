@@ -7,3 +7,4 @@ Implementing various statistical methods with use cases in notebook format (Pyth
 **Contents currently**
 
 1. Estimators (frequentist) - WW2 German tank problem
+2. Introduction to Probability (following Khan Academy outline)
